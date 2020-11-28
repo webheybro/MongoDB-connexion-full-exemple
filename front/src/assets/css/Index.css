@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* 
+--imperial-red: #e54b4bff;
+--light-salmon: #ffa987ff;
+--seashell: #f7ebe8ff;
+--jet: #444140ff; 
+--raisin-black: #1e1e24ff;
+*/
+
+p,
+h1 {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    margin: 0;
+    background: rgb(32, 157, 204);
+    background: radial-gradient(circle, #e54b4bff 0%, #ffa987ff 0%, #e54b4bff 100%);
+    /*background: url(../images/01-purple-gradient.svg);*/
+    font-family: 'Poppins', sans-serif !important;
+    color: #546A7B;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #FDFDFF;
+}
